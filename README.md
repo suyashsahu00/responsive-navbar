@@ -19,8 +19,12 @@ A modern, responsive navigation bar built using HTML, CSS, and Vanilla JavaScrip
 
 ## 📸 Preview
 
-![Preview](Preview.png)
-*A visual preview of the responsive navbar.*
+<details>
+  <summary>Click to view project preview</summary>
+  <br>
+  <img src="Preview.png" alt="Project Preview" width="100%">
+  <p align="center"><em>A visual preview of the responsive navbar.</em></p>
+</details>
 
 ## 📂 Project Structure
 
