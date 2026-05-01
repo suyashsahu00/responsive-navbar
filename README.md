@@ -44,4 +44,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Developed with ❤️ by [Suyash Sahu](https://github.com/suyashsahu00)
+Developed with 💚 by [Suyash Sahu](https://github.com/suyashsahu00)
